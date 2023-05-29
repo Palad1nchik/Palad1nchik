@@ -22,10 +22,13 @@
   <a href="https://t.me/Palad1nchik" rel="nofollow">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue">
       <a href="https://www.instagram.com/palad1nchik/" rel="nofollow">
-    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink">
+        <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink">
+        <a href="https://twitter.com/Palad1n12" rel="nofollow">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=white">
           <a href="mailto:arsenhgh@gmail.com" rel="nofollow">
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=red">
               <a href="mailto:ars01xx@mail.ru" rel="nofollow">
     <img src="https://img.shields.io/badge/mail-black?style=for-the-badge&logo=maildotru&logoColor=ADD8E6">
+                
                 
   
