@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Palad1nchik
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, C#, C++
-- 💞️ I’m looking to collaborate with Riot Games
-- 📫 How to reach me my telegram account @Palad1nchik and my inst bat_03_
+<big>Мой стек технологий</big>
 
-
-
-
-
-contact me
-Telegram Instagram GMail
+<a href="https://t.me/Palad1nchik" rel="nofollow">
+<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=yellow">
