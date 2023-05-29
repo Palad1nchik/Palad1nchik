@@ -8,5 +8,8 @@
 Palad1nchik/Palad1nchik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Contact me 
-https://t.me/Palad1nchik
+💒 'bout me
+I am a pretty dev, whose name is Islam. Age: 19
+
+contact me
+Telegram Instagram GMail
