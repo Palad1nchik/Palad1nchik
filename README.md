@@ -11,8 +11,7 @@
 
 
 <hr>
-
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=purple"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=orange"> <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue"> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql&logoColor=white"> <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=purple"> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/js-black?style=for-the-badge&logo=javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=orange"> <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=blue"> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"> 
 
 <h2 dir="auto"><a id="user-content-octocat-welcome" class="anchor" aria-hidden="true" <svg class="octicon octicon-link" viewBox="0 0 10 10" version="1.1" width="10" height="10" aria-hidden="true"></svg></a>Big Data Analysis and Cybersecurity and PM/UI/UX</h2>
 <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql&logoColor=white"> 
